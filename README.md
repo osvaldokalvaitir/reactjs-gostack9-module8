@@ -10,9 +10,13 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação.
+Aplicação usando Create React App, ESLint, babel-eslint, eslint-config-prettier, eslint-plugin-prettier, eslint-plugin-react-hooks e Prettier.
 
 ## Índice
+
+- [Capturas de Tela](#capturas-de-tela)
+
+  - [Principal](#main)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -25,6 +29,13 @@ Aplicação.
 - [Utilizados no Projeto](#utilizados-no-projeto)
 
   - [Bibliotecas](#bibliotecas)
+
+## Capturas de Tela
+
+### Principal
+
+![Main](/assets/main.png)
+Esta é a única tela onde o usuário informa uma tecnologia e esta é adicionada na lista.
 
 ## Desenvolvimento
 
