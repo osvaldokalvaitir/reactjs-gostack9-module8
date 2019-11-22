@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação usando Create React App, ESLint, babel-eslint, eslint-config-prettier, eslint-plugin-prettier, eslint-plugin-react-hooks e Prettier.
+Aplicação usando Create React App, ESLint, Prettier, babel-eslint, eslint-config-prettier, eslint-plugin-prettier, eslint-plugin-react-hooks e Hooks.
 
 ## Índice
 
