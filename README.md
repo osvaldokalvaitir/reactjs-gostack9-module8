@@ -34,7 +34,7 @@ Aplicação usando Create React App, ESLint, Prettier, babel-eslint, eslint-conf
 
 ### Principal
 
-![Main](/assets/main.png)
+![Main](/.github/assets/main.png)
 Esta é a única tela onde o usuário informa uma tecnologia e esta é adicionada na lista.
 
 ## Desenvolvimento
