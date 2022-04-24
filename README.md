@@ -1,70 +1,61 @@
-# ReactJS - Módulo 8 (Novo)
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-modulo7-novo/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-modulo8-novo.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-modulo8-novo.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-modulo8-novo.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-modulo8-novo.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-modulo8-novo.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-modulo8-novo.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - GoStack 9 Module 8
+</h3>
 
-Aplicação usando Create React App, ESLint, Prettier, babel-eslint, eslint-config-prettier, eslint-plugin-prettier, eslint-plugin-react-hooks e Hooks.
+<p align="center">
+  :page_facing_up: Application using Create React App, ESLint, Prettier, babel-eslint, eslint-config-prettier, eslint-plugin-prettier, eslint-plugin-react-hooks and Hooks
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-gostack9-module8.svg?color=00A83A">
 
-- [Capturas de Tela](#capturas-de-tela)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-gostack9-module8.svg?color=00A83A">
 
-  - [Principal](#main)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+<p align="center">
+  <a href="#computer-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+## :computer: Demo
 
-  - [Execução do Projeto](#execução-do-projeto)
+![Demo](/.github/assets/demo.png)
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-## Capturas de Tela
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-gostack9-module8
 
-### Principal
+# Entry in folder
+cd reactjs-gostack9-module8
 
-![Main](/.github/assets/main.png)
-Esta é a única tela onde o usuário informa uma tecnologia e esta é adicionada na lista.
+# Install deps with npm or yarn
+npm install | yarn
 
-## Desenvolvimento
+# Launch the app with npm or yarn
+npm start | yarn start
+```
 
-### Configuração do Ambiente
+## :memo: License
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-### Instalação do Projeto
+---
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
-
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento` ou `Construção e Execução de Projeto para Produção`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [babel-eslint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/babel-eslint.md)
-
-- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
-
-- [ESLint](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint.md)
-
-- [eslint-config-prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint-config-prettier.md)
-
-- [eslint-plugin-prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint-plugin-prettier.md)
-
-- [eslint-plugin-react-hooks](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/eslint-plugin-react-hooks.md)
-
-- [Prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prettier.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
